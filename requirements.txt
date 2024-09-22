@@ -1,2 +1,5 @@
+# NumPy: Essential for numerical operations and array handling
 numpy
+
+# Matplotlib: Used for real-time data visualization and plotting
 matplotlib
